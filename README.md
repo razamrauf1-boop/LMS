@@ -55,14 +55,18 @@ Google OAuth (Sign-in with Google)
 GET /api/auth/me
 Get logged-in user details (Requires token)
 
+
 2. Students Routes (/api/students)
+
 
 GET /api/students
 Get list of all students (Teacher only)
 Optional Query:
 search= → name/email search
 
+
 3. Results Routes (/api/results)
+
 
 POST /api/results
 Add student result (Teacher only)
@@ -86,6 +90,7 @@ Delete result by ID (Teacher only)
 
 
 4. Profile Routes (/api/profile)
+
 
 GET /api/profile
 Get logged-in user profile + student results
