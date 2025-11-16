@@ -111,12 +111,14 @@ npm install
 ```
 3. Create a .env file using .env.example:
 ```
-PORT=5000
-MONGO_URI=mongodb+srv://razamrauf:razamrauf1@cluster0.4joh19s.mongodb.net/?appName=Cluster0
-JWT_SECRET=jdahasjd328dnuwi
-GOOGLE_CLIENT_ID=589132323824-maappee06g33eqsicoia7t7evser1ocu.apps.googleusercontent.com
-GOOGLE_CLIENT_SECRET=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
-FRONTEND_URL=http://localhost:5173
+
+PORT=
+MONGO_URI=
+JWT_SECRET=
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+FRONTEND_URL=
+
 ```
 4. Start the backend server:
 ```
@@ -138,8 +140,8 @@ npm install
 ```
 3. Create a .env file using .env.example:
 ```
-VITE_API_URL=http://localhost:5000
-VITE_GOOGLE_CLIENT_ID=589132323824-maappee06g33eqsicoia7t7evser1ocu.apps.googleusercontent.com
+VITE_API_URL=
+VITE_GOOGLE_CLIENT_ID=
 
 ```
 4. Start the frontend server:
