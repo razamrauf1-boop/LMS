@@ -34,4 +34,5 @@ It includes authentication, role-based access, student result management, and da
 - Protected API routes with JWT
 
 ## Project Structure
+![1 login](https://github.com/user-attachments/assets/d29eb8d1-e39e-43fb-954a-5e945f39e9be)
 
